@@ -1,10 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
-using RestWithAspNetCore5.Model;
+﻿using RestWithAspNetCore5.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
 
 namespace RestWithAspNetCore5.Services.Implementations
 {
